@@ -1,4 +1,4 @@
-# E-Pharmacy-
+# E-Pharmacy
 E – Pharmacy (Group Project)
 - HTML, CSS, Django, MySQL
 
